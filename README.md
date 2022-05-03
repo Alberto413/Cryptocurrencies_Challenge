@@ -1,6 +1,6 @@
 # Cryptocurrencies_Challenge
 
-#### Overview
+## Overview
 
 The purpose of this analysis was to use data from CryptoCompare to provide a report and visualization of currently traded cryptocurrencies that can be grouped together to create a new classification system. This report would be used to help Accountability Accounting offer a new investment portfolio in the exciting world of cryptocurrency to its customers.
 
